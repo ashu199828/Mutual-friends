@@ -1,0 +1,48 @@
+{
+    "friends": [{
+    "title": "Friend of",
+    "cast": [
+        "Sameer",
+        "Aayushi"
+        
+        
+    ]
+},
+{
+    "title": "Friend of",
+    "cast": [
+        "Aayushi",
+        "Bhaskar"
+        ]
+},
+{
+    "title": "Friend of",
+    "cast": [
+        "Sameer",
+        "Kamal"
+        ]
+},
+{
+    "title": "Friend of",
+    "cast": [
+        "Kamal",
+        "Shanti"
+        ]
+},
+{
+    "title": "Friend of",
+    "cast": [
+        "Shanti",
+        "Bhaskar"
+        ]
+}
+
+
+
+
+
+
+
+
+    ]
+}
